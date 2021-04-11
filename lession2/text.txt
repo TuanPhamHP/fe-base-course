@@ -1,0 +1,32 @@
+
+  <tagname properties >
+    // content
+  </tagname>
+prettier
+properties: thuộc tính 
+VD : cái ví chứa 5k và làm bằng da
+=> 5k là content
+=> làm bằng da là 1 property(thuộc tính) của ví
+để khai báo 1 property :
+viết trong thẻ mở của thẻ
+định dạng : property="value" || property
+
+<ví chất-liệu="da" cũ>
+ 5k
+</ví>
+=> chất-liệu="da" là  property="value"
+=> cũ là property
+
+
+Thẻ chứa link 
+a : Thẻ đôi | thẻ inline
+href : gán 1 đường dẫn vào phần tử a .
+href : giá trị mặc định | giá trị nhận vào.
+href : "" | dạng văn bản - đường dẫn .
+
+target : định hướng tab sắp mở .
+target : _self | dạng văn bản.
+
+Thẻ chứa ảnh 
+img : thẻ đơn | thẻ inline
+src : "" | dạng văn bản - đường dẫn .

@@ -1,0 +1,60 @@
+
+<!-- 
+  Thẻ trong html : TAG .
+  syntax : 
+  l1: <tagname>
+        // content 
+      </tagname>
+  content : gồm văn bản, media, tag khác .
+  Các loại thẻ trong html : 
+    l1 : thẻ đôi - là dạng thẻ có thẻ đóng và thẻ mở .
+    l2 : thẻ đơn - là dạng thẻ không có thẻ đóng . <tagname> || <tagname />
+  => thẻ đơn không thể chứa 1 thẻ khác được . 
+  => quan hệ giữa các thẻ . quan hệ cha con, đồng cấp v.v .
+  Các dạng thẻ trong html :
+    d1 : inline - là loại thẻ chấp nhận cho thẻ inline khác nằm chung dòng và chỉ xuống dòng khi hết khoảng cách
+    d2 : block - là loại thẻ không chấp nhận cho bất cứ thẻ nào nằm chung dòng
+
+
+  trong 1 doc HTML chỉ có duy nhất 1 html là cha lớn nhất
+  
+  thẻ chuyên chứa chữ : 
+  span : thẻ đôi | inline
+  p : thẻ đôi | block
+  pre : thẻ đôi | block
+  h1->6 : thẻ đôi | block
+  i,strong,b,em .....
+ -->
+
+CSS : 
+<!-- 
+ k1 : Inline CSS
+
+ <tagname style="">
+    // content 
+ </tagname>
+
+ style: attribute 
+ attribute : có giá trị . không có giá trị .
+ syntax : style = "key : value;"
+ vd : style = "color : red;"
+ color là key 
+ red là value
+
+EXAM : 
+Độ đậm nhạt - 
+font-weight : dạng text (lighter -> bolder) | giá trị mặc định | dạng giá trị nhận vào .
+ -> giá trị mặc định : normal | 400 .
+ -> các giá trị nhận : Chữ (lighter -> bolder) | 100 -> 900 .
+font-style : kiểu nghiêng-đứng
+ -> giá trị mặc định : normal .
+ -> các giá trị nhận : dạng text .
+text-decoration : trang trí gạch chữ .
+ -> giá trị mặc định : none .
+ -> các giá trị nhận : dạng text .
+
+=> giá trị mặc định do thẻ quy định .
+
+
+
+-->
