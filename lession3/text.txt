@@ -1,0 +1,40 @@
+input : Thẻ đơn
+
+attributes :
+
+type : có giá trị
+'text' : dạng văn bản
+'number' : dạng số 
+'password' : kí tự mã hóa 
+'datetime' : chọn thời gian
+'color'
+'button'
+
+
+placeholder : có giá trị
+hiển thị lại gợi ý .
+
+readonly : khÔng có giá trị
+quyết định thuộc tính chỉ đọc của thẻ
+
+disabled : không có giá trị
+dùng để disable thẻ
+
+required : không có giá trị
+bắt buộc value của thẻ phải không rỗng
+
+minlength/maxlength : quy định số lượng kí tự
+
+value : có giá trị 
+Quy định giá trị hiển thị của thẻ
+
+khi sử dụng thuộc tính valid thì thẻ bắt buộc phải ở trong thẻ form
+
+
+Q
+Default method của thẻ form khi gửi dữ liệu
+Các dạng nút
+
+
+CSS :
+Marrgin + padding
